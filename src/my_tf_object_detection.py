@@ -1,7 +1,7 @@
 # my_tf_object_detection.
 # Version:20230308 Erling Lindholm
 #
-# First attemt to use objectdetection with a pretrained model from tensorflow
+# First attemt to use object detection with a pretrained model from tensorflow
 #
 import os
 import cv2
