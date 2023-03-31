@@ -3,6 +3,18 @@
 #
 # First attemt to use objectdetection with a pretrained model from tensorflow
 #
+# Usage: python .\my_tf_object_detection.py
+#
+# when presented with a remote control or a mobile phone the program will stop
+# Output:
+# person
+# person
+# cell phone
+# remote
+# cell phone
+#
+# Program stopped
+#
 import os
 import cv2
 import numpy as np
